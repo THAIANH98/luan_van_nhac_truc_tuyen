@@ -1,0 +1,6 @@
+Thời gian create_data_train.txt: 3164.2944416999817
+Thời gian create_data_train.txt: 3160.7447049617767
+Thời gian create_data_train.txt: 2952.8931560516357
+Thời gian create_data_train.txt: 3085.870208501816
+Thời gian create_data_train.txt: 3069.0755853652954
+Thời gian create_data_train.txt: 2707.63818526268

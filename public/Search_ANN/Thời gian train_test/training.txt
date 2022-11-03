@@ -1,0 +1,6 @@
+Thời gian tạo training.txt với nfilt = 12: 117.24581360816956/nThời gian tạo training.txt với nfilt = 12: 116.88121223449707/n
+Thời gian tạo training.txt với nfilt = 12: 3403.2846603393555/nThời gian tạo training.txt với nfilt = 12: 3399.6169810295105/n
+Thời gian tạo training.txt với nfilt = 12: 3072.2950081825256
+Thời gian tạo training.txt với nfilt = 12: 3226.2732861042023
+Thời gian tạo training.txt với nfilt = 12: 3176.414745092392
+Thời gian tạo training.txt với nfilt = 12: 2815.778872728348
